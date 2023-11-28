@@ -1,0 +1,10 @@
+tensorflow-gpu
+tensorflow-addons
+tensorflow-hub
+tensorflow-datasets
+pydub
+numpy
+tqdm
+larq
+larq_zoo
+
