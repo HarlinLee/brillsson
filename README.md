@@ -27,10 +27,13 @@ python3 eval.py
 
 ### Citation
 ```
-@article{lee2022distilled,
-  title={Distilled Non-Semantic Speech Embeddings with Binary Neural Networks for Low-Resource Devices},
-  author={Lee, Harlin and Saeed, Aaqib},
-  journal={arXiv preprint arXiv:2207.05784},
-  year={2022}
+@article{lee2023distilled,
+  title = {Distilled non-semantic speech embeddings with binary neural networks for low-resource devices},
+  journal = {Pattern Recognition Letters},
+  year = {2023},
+  issn = {0167-8655},
+  doi = {https://doi.org/10.1016/j.patrec.2023.11.028},
+  url = {https://www.sciencedirect.com/science/article/pii/S0167865523003380},
+  author = {Harlin Lee and Aaqib Saeed},
 }
 ```
