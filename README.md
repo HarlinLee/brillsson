@@ -1,4 +1,4 @@
-[Distilled Non-Semantic Speech Embeddings with Binary Neural Networks for Low-Resource Devices](https://arxiv.org/pdf/2207.05784.pdf)
+[Distilled Non-Semantic Speech Embeddings with Binary Neural Networks for Low-Resource Devices]([https://arxiv.org/pdf/2207.05784.pdf](https://www.sciencedirect.com/science/article/pii/S0167865523003380))
 ---
 by Harlin Lee, Aaqib Saeed @ <a href="https://www.sciencedirect.com/journal/pattern-recognition-letters">Pattern Recognition Letters</a>.
 
